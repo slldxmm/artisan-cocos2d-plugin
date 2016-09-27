@@ -52,7 +52,7 @@ Cocos 项目引用Cocos 的模式一般有两种，external 的位置有所不�
 
     -   源码模式，将lua-binding 或者 js-binding 添加到cocos2d_lua_bindings 或者cocos2d_js_bindings 子工程
 
-        ![](image/add-lua-binding.png)
+        ![](images/add-lua-binding.png)
 
     -   静态库模式，将lua-binding 或者 js-binding 直接添加到iOS工程
 
