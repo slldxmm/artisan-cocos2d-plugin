@@ -5,7 +5,7 @@ TestBird崩溃分析，[SDK全面开源](https://github.com/TheTestBird)，**请
 TestBird Cocos Plugin 为Cocos 提供访问TestBird 崩溃分析SDK 的一系列接口，
 并提供Lua/Javascript 的异常捕捉上报功能。
 
-**要使用Cocos Plugin 需要集成TestBird 崩溃分析SDK**
+**要使用Cocos Plugin 需要集成TestBird 崩溃分析SDK。**[SDK及Plugin下载](http://docs.testbird.com/guide/crashanalysis/sdk-download/)
 
 ## 一、添加Cocos Plugin
 
